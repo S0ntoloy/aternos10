@@ -1,0 +1,9 @@
+{
+	"ip":"Sontoloy.aternos.me",
+	"port": "33981",
+	"name": "3 IDIOT",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register JonathanAM24 ",
+	"login-cmd":"/login JonathanAM24 "
+}
